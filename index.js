@@ -3,6 +3,6 @@ function shout(string){
 }
 
 function(string1){
-  return string1.toLowerCase();
+  return string1le.toLowerCase();
 }
   
